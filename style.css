@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+
+}
+
+.menu-main {
+    margin-left: 5%;
+    width: 90%;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.chiken {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(153,153,153);
+}
+
+.beef {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(153,153,153);
+}
+
+.sushi {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(153,153,153);
+
+}
+p{
+    color: white;
+    font-size: 20px;
+    line-height: 30px;
+    padding: 30px;
+  
+}
+.sub-Heading{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(48, 54, 25);
+    margin-left: 290px;
+}
+.sub-Heading h3{
+    text-align: center;
+    color: white;
+}
